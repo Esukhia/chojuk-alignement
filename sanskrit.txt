@@ -1,6 +1,8 @@
 Alignment for https://archive.org/details/rashodgson13/mode/1up
 Original input from http://www.dsbcproject.org/canon-text/book/552
 
+https://archive.org/details/rashodgson13/page/n13/mode/1up
+
 Note: the page numbers on the images are wrong, image order is correct
 Convention: 
 [<image> - <page number>]
